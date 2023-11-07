@@ -1,5 +1,5 @@
 {
-    "name": "jkocik/laravel-profiler",
+    "name": "mdsami/laravel-profiler",
     "description": "Profiler for Laravel Framework",
     "keywords": ["laravel", "profiler", "debugbar"],
     "homepage": "https://github.com/jkocik/laravel-profiler",
